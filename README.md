@@ -3,7 +3,7 @@ Simple and easy to user Alert for iOS Swift Projects
 
 # Instalation
 
-Just copy the AlertMessage.swift file to your project.
+Just copy the file "AlertMessage.swift" to your project.
 
 # Usage
 
