@@ -15,4 +15,11 @@ Just copy the file "AlertMessage.swift" to your project.
   myAlert.showAlert(withMessage: "This is my message alert from TOP!", inRootView: self.view)
 ```
 
+## Options
 
+```
+  myAlert.alertFrom = .top | .bottom //Default is .top
+  myAlert.alertColor = UIColor // Default is .white
+  myAlert.alertTextColor = UIColor // Default is .black
+  myAlert.alertHeight = CGFloat // Default is 100
+  myAlert.alertTime = Double // Default is 4
